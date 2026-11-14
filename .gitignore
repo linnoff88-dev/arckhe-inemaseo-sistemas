@@ -1,0 +1,7 @@
+dados/
+*.sqlite
+*.db
+.env
+__pycache__/
+.telas/
+saida/
